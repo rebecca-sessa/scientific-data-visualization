@@ -1,4 +1,4 @@
-# Scientific Data Visualization
+# Scientific data visualization
 
 Scientific data analysis and visualization workflows developed using pandas and seaborn.
 
